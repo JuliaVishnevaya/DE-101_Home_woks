@@ -1,2 +1,4 @@
 # DE-101_Home_woks
-Here is what I did in the course Data Engineering (DE-101)
+Here are the completed tasks that I did on the course Data Engineering (DE-101).
+You can find it here 👉https://github.com/Data-Learn/data-engineering 
+
